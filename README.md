@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center" width="50">
+
+<img src="https://github.com/LuisC111/LuisC111/blob/main/img/sp1014.gif?raw=true" href="https://github.com/LuisC111" alt="Hello Coders" width="625"/> <br>
+
+  
+
+
+🎧[Spotify](https://open.spotify.com/user/12136776903) <br>
+
+
+
+</div>
