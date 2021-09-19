@@ -1,6 +1,6 @@
 
 
-<div width="50">
+<div align="center" width="50">
 
 # Hi Hackers 👋
 
