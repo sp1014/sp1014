@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 
-<img src="https://github.com/LuisC111/LuisC111/blob/main/img/sp1014.gif?raw=true" href="https://github.com/sp1014" width="625"/> <br>
+<img src="https://github.com/sp1014/sp1014/blob/main/img/sp1014.gif?raw=true" href="https://github.com/sp1014" width="625"/> <br>
 
   
 
