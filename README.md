@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+-->
 
 <img src="https://github.com/sp1014/sp1014/blob/main/img/sp1014.gif?raw=true" href="https://github.com/sp1014" width="625"/> <br>
 
@@ -28,19 +28,9 @@ Here are some ideas to get you started:
 
 
 
-</div>
 
 
-
-
-
-
-
-
-
-
-
-
+<!--
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
@@ -88,5 +78,4 @@ To answer this question we use an unordered list:
 Answer of the third question with *italic words*.
 4. **Fourth question in bold**
 | Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+|:--------------|:-------------:|--------------:|-->
