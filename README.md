@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 🎧[Spotify](https://open.spotify.com/user/12136776903) <br>
 
- 💻 [Development Nserio](https://github.com/EdwardSPO)<br>
+ 📚 [Project in Nserio](https://github.com/EdwardSPO)<br>
+ 💻 [Development Annar](https://github.com/ESantiagoPO)<br>
 
 
 
