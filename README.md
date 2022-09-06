@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/sp1014/sp1014/blob/main/img/sp1014.gif?raw=true" href="https://github.com/sp1014" width="100%"/> <br>
 
-  ## SENA student :heart:
+  ## Student :heart:
 
 🎧[Spotify](https://open.spotify.com/user/12136776903) <br>
 
